@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+.game{
+  width: 1080px;
+  height: 720px;
+  border: 10px solid black;
+  background-image: url("images/plano.jpg");
+  background-size: cover;
+  transition: 6000s;
+  transition-timing-function: linear;
+}
+
+.personagem{
+  position: relative;
+  width: 10%;
+  top: 450px;
+  transition: 0.5s;
+}
+
+.inimigo{
+  width: 7%;
+  float: right;
+  transform: rotateY(180deg);
+}
+
+.obstaculo{
+  width: 5%;
+  position: relative;
+  float: left;
+  top: 368px;
+  left: 960px;
+  transition: 2s;
+  transition-timing-function: linear;
+}
+
+.pontuacao{
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 30px;
+  left: 30px;
+}
