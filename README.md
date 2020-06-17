@@ -1,13 +1,12 @@
 # GokuGame
  A game made based on the game T-Rex of Google company, with the main character being Goku. 
  
- ## Tutorial of the game:
+ ## Tutorial:
  
- --> Use the key: 
- Up arrown, to make Goku fly up.
+ --> Press the key Up arrow (⬆) to make Goku fly up.
  
  --> If you was shotted by Freeza, it's game over baby. :)
  
- --> To play again press F5.
+ --> Press F5 to play again.
 
 [Game link](https://gokugame--vinicius-marcosmartins.repl.co/)
